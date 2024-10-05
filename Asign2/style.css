@@ -1,0 +1,21 @@
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: darkgoldenrod;
+}
+
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+img {
+  padding: 30px;
+  background-color: gold;
+  width: 50%;
+  height: 100%;
+  border-radius: 10%;
+}
+
+ol {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: darkgoldenrod;
+}
